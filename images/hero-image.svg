@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="537" viewBox="0 0 528 537">
+  <g id="hero-image" transform="translate(-1000 -300)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="129" height="129" rx="14" transform="translate(1270 300)" fill="#5709ce"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="129" height="144" rx="18" transform="translate(1270 558)" fill="#5709ce"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="129" height="129" rx="9" transform="translate(1399 429)" fill="#6c09ce" opacity="0.38"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="137" height="137" rx="14" transform="translate(1137 700)" fill="#fff"/>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="137" height="137" rx="14" transform="translate(1000 570)" fill="#c7a1ec" opacity="0.22"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1273 438)" fill="#fc4fef" stroke="#707070" stroke-width="1">
+      <ellipse cx="63" cy="60" rx="63" ry="60" stroke="none"/>
+      <ellipse cx="63" cy="60" rx="62.5" ry="59.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="137" height="137" rx="23" transform="translate(1137 700)" fill="#fff"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="137" height="137" rx="9" transform="translate(1000 563)" fill="#c7a1ec" opacity="0.47"/>
+    <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(1137 563)" fill="#06f8f2" stroke="#707070" stroke-width="1">
+      <ellipse cx="66.5" cy="68.5" rx="66.5" ry="68.5" stroke="none"/>
+      <ellipse cx="66.5" cy="68.5" rx="66" ry="68" fill="none"/>
+    </g>
+  </g>
+</svg>
